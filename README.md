@@ -2,7 +2,7 @@
 
 # Goal
 
-Create a script that will build a docker image, deploy to server on aws, and create a script that will periodically check if the server is running.
+Create a script that will build a docker image, deploy to server on aws, and create another script that will periodically check if the server is running.
 
 # Prerequisites
 
